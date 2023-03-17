@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- *main - entry poinit
- *return: always 0 (success)
+ *main - A program that prints a line with function
+ *Return: 0 (Success)
  */
 int main(void)
 {
-        puts("\"Programming is like building a multilingual puzzle");
-        return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
